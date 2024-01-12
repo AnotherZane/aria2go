@@ -26,10 +26,10 @@ rm -rf _obj
 
 ## Version
 ZLIB_V=1.2.11
-OPENSSL_V=1.0.2p
-C_ARES_V=1.14.0
-SSH2_V=1.8.0
-ARIA2_V=1.35.0
+OPENSSL_V=1.1.1w
+C_ARES_V=1.24.0
+SSH2_V=1.11.0
+ARIA2_V=1.37.0
 
 ## Dependencies
 ZLIB=http://sourceforge.net/projects/libpng/files/zlib/${ZLIB_V}/zlib-${ZLIB_V}.tar.gz

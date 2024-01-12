@@ -1,4 +1,4 @@
-module github.com/jaskaranSM/aria2go
+module github.com/anotherzane/aria2go
 
 go 1.12
 
